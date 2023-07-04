@@ -8,7 +8,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Nanjing.++%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Shanghai.++%F0%9F%91%8B)
 
 <!-- ======================================= -->
 
